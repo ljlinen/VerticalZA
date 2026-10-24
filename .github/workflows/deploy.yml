@@ -58,8 +58,3 @@ jobs:
       - name: Publish website
         id: deployment
         uses: actions/deploy-pages@v4
-ath: ${{ env.BUILD_DIR }}
-
-      - name: Publish website
-        id: deployment
-        uses: actions/deploy-pages@v4
