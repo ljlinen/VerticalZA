@@ -1,0 +1,3 @@
+export default function Footer() {
+  return (<footer><div className="container"><div className="foot"><div><div className="logo">VERTICAL<span>ZA</span></div><p>Access & Lifting Equipment · Pretoria, Gauteng</p></div><div><a href="#fleet">Rental Fleet</a>   ·   <a href="#services">Services</a>   ·   <a href="#contact">Contact</a></div></div><div className="copyright">Unofficial redesign concept for presentation purposes. Image URLs are unverified placeholders and may not load. Not affiliated with or approved by VerticalZA. Business information sourced from verticalza.co.za.</div></div></footer>);
+}
