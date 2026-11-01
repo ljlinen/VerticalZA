@@ -56,15 +56,15 @@ export const equipment = [
     imageUrl: "https://verticalza.co.za/wp-content/uploads/2020/05/Toyota-Forklift.png"
   },
   {
-    name: "Light Tower",
+    name: "Transport",
     category: "other",
     label: "Other Equipment",
-    description: "Site illumination equipment",
+    description: "Lowbed & Rollback Transport",
     detailsUrl: "https://verticalza.co.za/light-tower/",
     imageUrl: "https://verticalza.co.za/wp-content/uploads/2020/05/Transport-Mercedez.png"
   },
   {
-    name: "Material Lifts",
+    name: "Wet & Dry Sandblasting",
     category: "other",
     label: "Other Equipment",
     description: "Lifting equipment for material handling",
