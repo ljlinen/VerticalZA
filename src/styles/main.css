@@ -47,7 +47,7 @@ button {
 }
 
 .top .container {
-  display: flex;
+  display: none;
   justify-content: space-between;
   gap: 12px;
   padding-top: 9px;
@@ -653,7 +653,6 @@ footer p {
   }
 
   .top .container {
-    display: none;
     font-size: 10px
   }
 
